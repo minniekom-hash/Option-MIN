@@ -1,0 +1,7 @@
+flask
+flask-cors
+yfinance
+pytz
+gunicorn
+nltk
+requests
